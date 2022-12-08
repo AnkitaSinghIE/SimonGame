@@ -5,4 +5,4 @@
 1. JavaScript
 1. jQuery
 
-WebSite Link: 
+WebSite Link: https://ankitasinghie.github.io/SimonGame/
